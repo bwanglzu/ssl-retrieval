@@ -4,7 +4,7 @@ Benchmarking Self-supervised learning methods for content-based image retrieval.
 
 ## Datasets
 
-[GLDV2](https://github.com/cvdfoundation/google-landmark): This is the second version of the Google Landmarks dataset (GLDv2), which contains images annotated with labels representing human-made and natural landmarks. 
+[GLDV2 (cleaned)](https://arxiv.org/abs/2003.11211): This is the second version of the Google Landmarks dataset (GLDv2), which contains images annotated with labels representing human-made and natural landmarks. 
 
 [Similarity Challenge dataset](https://arxiv.org/pdf/2106.09672.pdf): in image copy detection, providing a reference collection of 1 million images, a development set of 50,000 query images, and a test set of 50,000 additional query images.
 
